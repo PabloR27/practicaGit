@@ -1,3 +1,3 @@
 <?php
-print "Prueba 1";
+print "Prueba 1 version 2 ";
 ?>
